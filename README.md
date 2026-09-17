@@ -1,7 +1,5 @@
 # Breast Cancer Classification using a Neural Network
 
-> Original implementation by Abdullah Khan ([AbdullahKhan-77](https://github.com/AbdullahKhan-77)), re-uploaded and extended with permission.
-
 ## Project Overview
 
 This project implements a Feedforward Artificial Neural Network (ANN) to
